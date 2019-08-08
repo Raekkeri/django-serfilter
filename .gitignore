@@ -1,0 +1,12 @@
+*.pyc
+*.swp
+*.DS_Store
+.env
+*.map
+*.db
+tags
+.tox
+*.egg-info/
+dist/
+build/
+.coverage
